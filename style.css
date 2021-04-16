@@ -1,3 +1,9 @@
 body {
     background-image: url(./spejs.jpg.png);
 }
+.parka {
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aqua;
+    text-align: center;
+}
