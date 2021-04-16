@@ -133,6 +133,6 @@ const peoples = [
     for(let i = 0; i < peoples.length; i++){
         let paragraf = document.createElement('p')
         paragraf.setAttribute('class', 'parka')
-        paragraf.innerText = peoples[i].name + " " + peoples[i].sName + " " + peoples[i].age + " " + "lat"
+        paragraf.innerText = peoples[i].name + " " + peoples[i].sName + ' ' + "wiek" + " " + peoples[i].age + " " + "lat"
         app.appendChild(paragraf)
     }
